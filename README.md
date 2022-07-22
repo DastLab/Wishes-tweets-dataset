@@ -60,7 +60,7 @@ By using this dataset, you agree to comply with [Twitter's Terms of Service](htt
 @inproceedings{caruccio2022women,
   title={Data Analytics on Twitter for Evaluating Women Inclusion and Safety in Modern Society.},
   author={Caruccio, L., Cirillo, S., Deufemia, V., Polese, G., and Stanzione R.},
-  booktitle={TBD},
+  booktitle={In Proceedings of the 1st Italian Conference on Big Data and Data Science (ITADATA) (to appear)},
   year={2022}
 }
 ```
